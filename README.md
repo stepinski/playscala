@@ -1,0 +1,2 @@
+# playscala
+scala pet projects
