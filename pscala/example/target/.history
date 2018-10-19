@@ -1,0 +1,8 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+all {file:/home/pioters/ws/prj/playscala/pscala/example/}root/products {file:/home/pioters/ws/prj/playscala/pscala/example/}root/test:products
+run
+console
+submit stepinski@gmail.com qTLQykuniF57Br5o
+styleCheck
+scala
+console

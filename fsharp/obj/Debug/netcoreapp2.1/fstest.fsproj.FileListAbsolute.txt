@@ -1,0 +1,10 @@
+/home/pioters/ws/prj/playscala/fstest/bin/Debug/netcoreapp2.1/fstest.deps.json
+/home/pioters/ws/prj/playscala/fstest/bin/Debug/netcoreapp2.1/fstest.runtimeconfig.json
+/home/pioters/ws/prj/playscala/fstest/bin/Debug/netcoreapp2.1/fstest.runtimeconfig.dev.json
+/home/pioters/ws/prj/playscala/fstest/bin/Debug/netcoreapp2.1/fstest.dll
+/home/pioters/ws/prj/playscala/fstest/bin/Debug/netcoreapp2.1/fstest.pdb
+/home/pioters/ws/prj/playscala/fstest/obj/Debug/netcoreapp2.1/fstest.fsprojAssemblyReference.cache
+/home/pioters/ws/prj/playscala/fstest/obj/Debug/netcoreapp2.1/fstest.AssemblyInfoInputs.cache
+/home/pioters/ws/prj/playscala/fstest/obj/Debug/netcoreapp2.1/fstest.AssemblyInfo.fs
+/home/pioters/ws/prj/playscala/fstest/obj/Debug/netcoreapp2.1/fstest.dll
+/home/pioters/ws/prj/playscala/fstest/obj/Debug/netcoreapp2.1/fstest.pdb
