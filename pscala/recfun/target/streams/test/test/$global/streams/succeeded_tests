@@ -1,4 +1,5 @@
 #Successful Tests
-#Fri Oct 19 15:26:37 CEST 2018
+#Mon Oct 22 17:03:06 CEST 2018
 recfun.PascalSuite=1539948777630
 recfun.BalanceSuite=1539955597310
+recfun.CountChangeSuite=1540220586148

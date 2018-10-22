@@ -6,3 +6,29 @@ test BalanceSuite
 testOnly *BalanceSuite
 submit stepinski@gmail.com w4zdAwOk3v3WRstE
 submit stepinski@gmail.com zgCUYhYiala67QAn
+testOnly *CountChangeSuite
+4%5
+scala
+console
+testOnly *CountChangeSuite
+run
+RUN
+run
+pascal(100,100000)
+scala
+console
+run
+testOnly *CountChangeSuite
+run
+testOnly *CountChangeSuite
+run
+all {file:/home/pioters/ws/prj/playscala/pscala/recfun/}root/products {file:/home/pioters/ws/prj/playscala/pscala/recfun/}root/test:products
+run
+all {file:/home/pioters/ws/prj/playscala/pscala/recfun/}root/products {file:/home/pioters/ws/prj/playscala/pscala/recfun/}root/test:products
+testOnly *CountChangeSuite
+run
+all {file:/home/pioters/ws/prj/playscala/pscala/recfun/}root/products {file:/home/pioters/ws/prj/playscala/pscala/recfun/}root/test:products
+testOnly *CountChangeSuite
+run
+testOnly *CountChangeSuite
+submit stepinski@gmail.com CVp4b0Q5rPSx9N34

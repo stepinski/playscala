@@ -2,12 +2,22 @@ package recfun
 
 object Main {
   def main(args: Array[String]) {
+    println("wyniki1")
+    // countChange2(5, List(2, 3, 1), 0)
+    println("wyniki2")
+    countChange(4, List(1, 2))
+
     println("Pascal's Triangle")
+
     for (row <- 0 to 10) {
       for (col <- 0 to row)
         print(pascal(col, row) + " ")
       println()
     }
+    println("wyniki1")
+    countChange2(5, List(2, 3, 1), 0)
+    println("wyniki2")
+    countChange2(4, List(1, 2), 0)
   }
 
   /**
@@ -48,11 +58,45 @@ object Main {
       }
     }
 
-    bal(chars,0)
+    bal(chars, 0)
   }
 
   /**
     * Exercise 3
     */
-  def countChange(money: Int, coins: List[Int]): Int = ???
+  def countChange(money: Int, coins: List[Int]): Int = {
+    def innerCount(money: Int, pathSum: Int, coins: List[Int], cntr: Int): Int = {
+      if (coins.nonEmpty) {
+        val head = coins.head
+        // print("|" + money + " " + pathSum + " " + coins.length + "|")
+        //the problem can be decomposed to moving on tree - each nodes have next nodes with weights= coins values
+        // the problem would be defined as counting path lenghts ( sum of coin values) - at each level we can or build next set of paths or skip
+        // to path with value from another coin
+        if (pathSum < money) {
+          innerCount(money, pathSum + head, coins, cntr) + innerCount(money, pathSum, coins.tail, cntr)
+        } else if (pathSum == money) {
+          //  print(" ok ")
+          cntr + 1
+        }
+        else cntr
+      } else cntr
+    }
+
+    innerCount(money, 0, coins, 0)
+  }
+
+  def countChange2(money: Int, coins: List[Int], cntr: Int): Int = {
+    def innerCount(money: Int, total: Int, coins: List[Int], cntr: Int): Int = {
+      if (coins.nonEmpty) {
+        val head = coins.head
+        if (money >= head) {
+          innerCount(money - head, total, coins, cntr) + innerCount(money, total, coins.tail, cntr)
+        } else if (money == 0)
+          innerCount(total, total, coins.tail, cntr + 1)
+        else innerCount(money, total, coins.tail, cntr) // innerCount(total, total, coins.tail, cntr)
+      } else cntr
+    }
+
+    innerCount(money, money, coins, 0)
+  }
 }
