@@ -52,7 +52,8 @@ object ex2 {
 
  // sqrt(2.0)
   sqrt(2)
-
+  averageDamp(y=>2/y)
+  averageDamp(y=>2/y)
 
   def averageDamp(f: Double => Double)(x: Double) = (x + f(x)) / 2
 
