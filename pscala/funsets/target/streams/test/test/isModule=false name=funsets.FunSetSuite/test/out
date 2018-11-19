@@ -2,4 +2,10 @@
 [0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
 [0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
 [0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
-[0m[[0minfo[0m] [0m[32m- interset contains intersection of 2 sets[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect contains intersection of 2 sets[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff contains difference of 2 sets[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter returns s filtered by function[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall checks if all values in s within bounds satisfies p [0m[0m
+[0m[[0minfo[0m] [0m[32m- exists checks if exists value in s within bounds satisfies p [0m[0m
+[0m[[0minfo[0m] [0m[31m- map applies p to all elements of s *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  FunSets.contains(FunSets.map($anon.this.s, $anon.this.p), 9) was false the set after map should contain 9 (FunSetSuite.scala:173)[0m[0m

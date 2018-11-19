@@ -2,22 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3adf92df-afbd-4bf2-94da-64fa9103152d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/modules/progfun1-funsets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/modules/root-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../funsets/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/functions.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funsets/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funsets/src/test/scala/funsets/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funsets/src/test/scala/funsets/testfunc.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/src/main/scala/funsets/FunSets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/src/main/scala/funsets/FunSets.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/src/test/scala/funsets/FunSetSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/src/test/scala/funsets/FunSetSuite.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/target/streams/test/test/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/target/streams/test/test/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/target/streams/test/test/$global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/target/streams/test/test/$global/streams/succeeded_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/target/streams/test/test/isModule=false name=funsets.FunSetSuite/test/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/target/streams/test/test/isModule=false name=funsets.FunSetSuite/test/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/target/test-reports/funsets.FunSetSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/target/test-reports/funsets.FunSetSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/playground.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/playground.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -37,7 +36,7 @@
     <session id="-1667557648">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="2" />
@@ -138,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/playground.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="37" />
+              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -147,7 +146,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/functions.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
-              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -271,7 +270,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540506494633" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541057585856" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -396,7 +395,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.16488793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -517,14 +515,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/functions.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/playground.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="37" />
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="37" />
         </state>
       </provider>
     </entry>

@@ -39,22 +39,30 @@ object FunSets {
     * Returns the intersection of the two given sets,
     * the set of all elements that are both in `s` and `t`.
     */
-  def intersect(s: Set, t: Set): Set =
-  {
+  def intersect(s: Set, t: Set): Set = {
     def ret(e: Int): Boolean = contains(t, e) && contains(s, e)
 
     ret
   }
+
   /**
     * Returns the difference of the two given sets,
     * the set of all elements of `s` that are not in `t`.
     */
-  def diff(s: Set, t: Set): Set = ???
+  def diff(s: Set, t: Set): Set = {
+    def ret(e: Int): Boolean = !(contains(t, e) && contains(s, e))
+
+    ret
+  }
 
   /**
     * Returns the subset of `s` for which `p` holds.
     */
-  def filter(s: Set, p: Int => Boolean): Set = ???
+  def filter(s: Set, p: Int => Boolean): Set = {
+    def ret(e: Int): Boolean = contains(s, e) && p(e)
+
+    ret
+  }
 
 
   /**
@@ -66,25 +74,34 @@ object FunSets {
     * Returns whether all bounded integers within `s` satisfy `p`.
     */
   def forall(s: Set, p: Int => Boolean): Boolean = {
-    def iter(a: Int): Boolean = {
-      if (???) ???
-      else if (???) ???
-      else iter(???)
+    def itera(a: Int): Boolean = {
+      //  print(a + " ")
+      if (a > bound) true
+      else if (s(a) & !p(a)) false
+      else itera(a + 1)
     }
 
-    iter(???)
+    itera(-bound)
   }
 
   /**
     * Returns whether there exists a bounded integer within `s`
     * that satisfies `p`.
     */
-  def exists(s: Set, p: Int => Boolean): Boolean = ???
+  def exists(s: Set, p: Int => Boolean): Boolean = {
+    def itera(a: Int): Boolean = {
+      if (a > bound) false
+      else if (s(a) & p(a)) true
+      else itera(a + 1)
+    }
+
+    itera(-bound)
+  }
 
   /**
     * Returns a set transformed by applying `f` to each element of `s`.
     */
-  def map(s: Set, f: Int => Int): Set = ???
+  def map(s: Set, f: Int => Int): Set = s.compose(f)
 
   /**
     * Displays the contents of a set
