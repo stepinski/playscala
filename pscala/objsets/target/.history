@@ -1,0 +1,19 @@
+run
+build
+apply
+sbt apply
+assembly
+build
+assembly
+run
+run runMain
+run Main
+run TweetScala
+run TweetScala.Main
+compile
+run
+package
+run
+test
+submit stepinski@gmail.com 89fxIW4M1NQxbiZf
+submit stepinski@gmail.com Q2T2MZ0gvEuFX8qX

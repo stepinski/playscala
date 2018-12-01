@@ -2,28 +2,328 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb57fe2-d0f4-46e9-9310-ce52d2942d17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_12_2_5_18_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/libraries/sbt__com_typesafe_akka_akka_testkit_2_12_2_5_18_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/libraries/sbt__com_typesafe_config_1_3_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_12_0_8_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_0_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/libraries/sbt__org_scalactic_scalactic_2_12_3_0_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/libraries/sbt__org_scalatest_scalatest_2_12_3_0_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/modules/akka-qstart-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/modules/akka-quickstart-scala.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/patternm.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/week4-func-objects.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../funsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/src/main/resources/META-INF/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/project/target/config-classes/$29138dfef8a955abc2ba.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/config-classes/$01d6c57acae48eec8e91.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/config-classes/$2729890a49f43b71098b.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/config-classes/$3d9f5d78c8b35d1425dc.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/config-classes/$aab703350dc97db333ef.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/config-classes/$e4555fa1fbde31ebc633.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/default/akka-qstart-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/default/akka-qstart-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-qstart-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/sbt-dist/bin/sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/sbt-dist/bin/sbt-launch-lib.bash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/sbt-dist/bin/sbt-launch.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/sbt-dist/bin/sbt.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/sbt-dist/conf/sbtconfig.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/sbt-dist/conf/sbtopts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/sbt.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/src/main/scala/com/example/AkkaQuickstart.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/src/test/scala/com/example/AkkaQuickstartSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala$sources/1.0/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala$sources/1.0/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala_2.12/1.0/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala_2.12/1.0/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.1.7/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.1.7/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/$global/$global/definedTestNames/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/loadedTestFrameworks/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/test/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/test/$global/streams/succeeded_tests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/test/isModule=false name=com.example.AkkaQuickstartSpec/test/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akka-qstart/target/test-reports/com.example.AkkaQuickstartSpec.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funsets/target/scala-2.11/progfun1-funsets_2.11-0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funsets/target/streams/$global/submit/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funsets/target/streams/compile/packageSubmission/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funsets/target/streams/compile/packageSubmission/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funsets/target/streams/compile/packageSubmission/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/CommonBuild.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Courses.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/GradingFeedback.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/ScalaTestRunner.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Settings.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/StudentBuild.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/StudentBuildLike.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/StyleChecker.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/buildSettings.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$2488db9dd89f135afcde.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$5cf7a8274dab97473a11.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$783c1b84d3cf7ecfa516.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$82506eaa9cf0350bbb15.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$b8db0b8e467d3485acc5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$ccda2c565728980a0e2b.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$f3190b00df399645eb11.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$19877ede7140bbaffa1a.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3e39432d84f981b64b24.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$632cbf162d7807807e29.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6f5501e3f8e57e4f0440.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$af6e02f2b8cb9f80457f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$bb601551518ae38bf4c4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$bf0941aa8a11d8a52ee3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$f9f1a122c4829f98f12e.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fb4d94774c77a8397d11.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$ff178cc28ce779836105.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/objsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/objsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-docs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scalastyle/scalastyle_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/common/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetReader.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.11/progfun1-objsets_2.11-0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierArtifacts/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierClassifiersArtifacts/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierResolutions/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/submit/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/definedTestNames/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/loadedTestFrameworks/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=objsets.TweetSetSuite/test/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-reports/objsets.TweetSetSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/objsets/patternm.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/objsets/patternm.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -66,13 +366,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="sbtShell" value="203" />
-          <entry key="sc" value="1156" />
+          <entry key="sc" value="1546" />
           <entry key="scala" value="2286" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="3442" />
+          <entry key="Scala" value="3832" />
           <entry key="sbtShell" value="203" />
         </counts>
       </usages-collector>
@@ -113,8 +413,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/patternm.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="276">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -270,7 +570,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543671567670" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543672741357" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -475,7 +775,7 @@
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23946784" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23946784" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -492,7 +792,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32964823" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.320603" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.320603" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32964823" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Graph Database Console" order="10" weight="0.32964823" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
@@ -629,8 +929,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/patternm.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        <state relative-caret-position="276">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
