@@ -1,0 +1,10 @@
+spec:
+  template:
+    spec:
+      volumes:
+      - name: docker-sock-volume
+        hostPath:
+          # location on host
+          path: /var/run/docker.sock
+          # this field is optional
+          type: File

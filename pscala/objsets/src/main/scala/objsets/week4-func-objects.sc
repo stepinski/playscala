@@ -37,6 +37,7 @@ object List {
 //  def apply() = new Nil
 }
 
+val t :List[String ] = List("ora","appa","test")
 val tst= List(1,2)
 val x: List[String] = Nil
 
