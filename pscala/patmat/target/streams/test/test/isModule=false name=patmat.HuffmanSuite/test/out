@@ -4,16 +4,4 @@
 [0m[[0minfo[0m] [0m[32m- string2chars("hello, world")[0m[0m
 [0m[[0minfo[0m] [0m[32m- makeOrderedLeafList for some frequency table[0m[0m
 [0m[[0minfo[0m] [0m[32m- combine of some leaf list[0m[0m
-[0m[[0minfo[0m] [0m[31m- decode and encode a very short text should be identity *** FAILED ***[0m[0m
-[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
-[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.encode(Huffman.scala:196)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.HuffmanSuite$$anonfun$6$$anon$3.<init>(HuffmanSuite.scala:50)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.HuffmanSuite$$anonfun$6.apply$mcV$sp(HuffmanSuite.scala:49)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.HuffmanSuite$$anonfun$6.apply(HuffmanSuite.scala:49)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.HuffmanSuite$$anonfun$6.apply(HuffmanSuite.scala:49)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
-[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode a very short text should be identity[0m[0m
