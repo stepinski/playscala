@@ -23,12 +23,19 @@ object Main extends App {
   def shallStop(size: Int, n: Int, mid: Int): Boolean =
     (size == n) && (mid == (n - 2)) || ((n == 1) && size == 1)
 
+  def wrSub(numb: List[Int], iter: Int): String = {
+    if (iter == 0) numb.reverse.map(_.toChar).toString()
+    val head = numb.head
+    if (head > 0) wrSub((head - 1) :: numb.tail, iter - 1)
+    else wrSub(numb.tail, iter - 1)
+  }
+
   // insert your code here
   //var tests = Console.readInt
   var params = Console.readLine().split(" ").toList
-  val numbers = params(0).toList
-  val iters = params(1).toInt
+  val number = params(0).toList
+  val iter = params(1).toInt
+  val result = wrSub(number.reverse.map(_.toInt), iter)
 
-
-//  }
+  //  }
 }
