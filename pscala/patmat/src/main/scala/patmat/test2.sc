@@ -19,16 +19,18 @@ def retAnswer(n: Int, k: Int, ch: List[Int]): String = {
   "NIE"
 }
 def wrSub(numb: List[Int], iter: Int): String = {
-  if (iter == 0) numb.reverse.map(_.toChar).toString()
+  if (iter == 0) numb.reverse.map(x=>(x+48).toChar).mkString
   else {
     val head = numb.head
+    print("|"+head+"|")
     if (head > 0) wrSub((head - 1) :: numb.tail, iter - 1)
     else wrSub(numb.tail, iter - 1)
   }
 }
 val str  = "512".toList
-val it = "4"
-wrSub(str.reverse.map(_.toInt), it.toInt)
+val it = "4".toInt
+
+wrSub(str.reverse.map(_.asDigit), it)
 
 def shallStop(size: Int, n: Int, mid: Int): Boolean =
   (size == n) && (mid == (n - 2)) || ((n == 1) && size == 1)

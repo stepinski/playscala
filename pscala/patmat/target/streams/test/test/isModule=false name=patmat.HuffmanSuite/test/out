@@ -5,3 +5,6 @@
 [0m[[0minfo[0m] [0m[32m- makeOrderedLeafList for some frequency table[0m[0m
 [0m[[0minfo[0m] [0m[32m- combine of some leaf list[0m[0m
 [0m[[0minfo[0m] [0m[32m- decode and encode a very short text should be identity[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode with quickEncode a very short text should be identity[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode with quickEncode a text should be identity[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode with quickEncode a text abbaa should be identity[0m[0m

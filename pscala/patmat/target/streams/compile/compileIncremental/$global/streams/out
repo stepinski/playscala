@@ -3,33 +3,13 @@
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(/home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1$$anonfun$apply$1.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1$$anonfun$2.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class, /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
-[0m[[0mdebug[0m] [0m[naha] 	product: Set(/home/pioters/ws/prj/playscala/pscala/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/pioters/ws/prj/playscala/pscala/patmat/src/main/scala/patmat/Huffman.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/pioters/ws/prj/playscala/pscala/patmat/src/main/scala/patmat/Huffman.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes...[0m
-[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.11.12[0m
-[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.11.12[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 54caf9f8, interfacing (CompilerInterface) with Scala compiler version 2.11.12[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
-[0m[[0mdebug[0m] [0m	-deprecation[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/pioters/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/home/pioters/ws/prj/playscala/pscala/patmat/target/scala-2.11/classes:/home/pioters/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar:/home/pioters/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar:/home/pioters/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar:/home/pioters/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar[0m
-[0m[[33mwarn[0m] [0mthere were 9 feature warnings; re-run with -feature for details[0m
-[0m[[33mwarn[0m] [0mone warning found[0m
-[0m[[0mdebug[0m] [0mScala compilation took 3.907703936 s[0m
-[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
-[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
-[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
