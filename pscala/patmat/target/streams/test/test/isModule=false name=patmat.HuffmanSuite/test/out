@@ -8,3 +8,4 @@
 [0m[[0minfo[0m] [0m[32m- decode and encode with quickEncode a very short text should be identity[0m[0m
 [0m[[0minfo[0m] [0m[32m- decode and encode with quickEncode a text should be identity[0m[0m
 [0m[[0minfo[0m] [0m[32m- decode and encode with quickEncode a text abbaa should be identity[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode with quickEncode a text bac should be identity[0m[0m

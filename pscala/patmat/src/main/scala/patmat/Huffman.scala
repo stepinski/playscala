@@ -108,7 +108,7 @@ object Huffman {
     * unchanged.
     */
   def combine(trees: List[CodeTree]): List[CodeTree] = trees match {
-    case l if l.size <= 2 => l
+    case l if l.size <= 1 => l
     case l => ((l tail) tail) :+ makeCodeTree(l head, (l tail) head) sortWith (weight(_) < weight(_))
   }
 
@@ -151,7 +151,6 @@ object Huffman {
   def decodeChar(tree: CodeTree, root: CodeTree, bits: List[Bit], ret: String): String = {
     tree match {
       case Fork(left, right, chars, w) =>
-        println(w)
         if (bits.head == 0) {
           decodeChar(left, root, bits.tail, ret)
         }
@@ -159,7 +158,6 @@ object Huffman {
           decodeChar(right, root, bits.tail, ret)
         }
       case Leaf(ch, w) =>
-        println(ch)
         var retVal = ret :+ ch
         if (bits.isEmpty) {
           retVal
@@ -251,6 +249,7 @@ object Huffman {
     * a valid code tree that can be represented as a code table. Using the code tables of the
     * sub-trees, think of how to build the code table for the entire tree.
     */
+
   def convert(tree: CodeTree): CodeTable =
     tmpConvert(tree, List[Bit](), List[(Char, List[Bit])]())
 
@@ -258,13 +257,13 @@ object Huffman {
   def tmpConvert(tree: CodeTree, bits: List[Bit],
                  tab: CodeTable): CodeTable = tree match {
     case Fork(left, right, chars, w) =>
-      tmpConvert(left, bits :+ 0, tab):::tmpConvert(right, bits :+ 1, tab)
+      tmpConvert(left, bits :+ 0, tab) ::: tmpConvert(right, bits :+ 1, tab)
     case Leaf(ch, w) =>
       //    println(ch)
       //    println(ch+"|| "+tab)
-      (ch, bits)::tab
-
+      (ch, bits) :: tab
   }
+
 
   /**
     * This function takes two code tables and merges them into one. Depending on how you
@@ -282,12 +281,12 @@ object Huffman {
     */
   def quickEncode(tree: CodeTree)(text: List[Char]): List[Bit] = {
     val ct = convert(tree)
-    println(ct)
+    //    println(ct)
     var bits = List[Bit]()
     for (c <- text) {
       ct.find(x => x._1 == c) match {
         case Some(x) => bits = bits ::: x._2;
-        case _ => List.empty[Bit]
+        case _ => bits = bits ::: List.empty[Bit]
       }
     }
     bits
